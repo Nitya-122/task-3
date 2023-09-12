@@ -1,0 +1,50 @@
+body {
+    background-color:lavender;
+    justify-content: start;
+    align-items: start;
+    height: 100px;
+}
+.contact h2{
+    background-color:silver;
+    border: 1px solid blue;
+    border-radius: 1px;
+    max-width: 225px;
+}
+.education h2{
+    border:1px solid blue;
+    background-color: silver;
+    max-width: 250px;
+    border-radius: 1px;
+}
+.education h4{
+    padding-left: 50px;
+}
+.interests h2{
+    border:1px solid blue;
+    background-color: silver;
+    max-width: 190px;
+}
+.skills h2{
+    border: 1px solid blue;
+    background-color: silver;
+    max-width: 175px;
+}
+.achieve h2{
+    border: 1px solid blue;
+    background-color: silver;
+    max-width: 150px;
+}
+.strengths h2{
+    border: 1px solid blue;
+    background-color: silver;
+    max-width: 110px;
+}
+.certify h2{
+    border: 1px solid blue;
+    background-color: silver;
+    max-width: 150px;
+}
+.resume h1{
+    color:rgb(1, 4, 12);
+    text-align: center;
+}
